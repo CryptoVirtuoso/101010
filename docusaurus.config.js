@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Mr.101010',
+  tagline: '空降各种福利',
+  url: 'https://101010.cool/blog',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'cryptoascii', // Usually your GitHub org/user name.
+  projectName: '101010', // Usually your repo name.
   themeConfig: {
     announcementBar: {
       id: 'support_us',
@@ -16,9 +16,9 @@ module.exports = {
       isCloseable: false,
     },
     navbar: {
-      title: 'My Site',
+      title: 'Mr.101010',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Mr.101010',
         src: 'img/logo.svg',
       },
       links: [
