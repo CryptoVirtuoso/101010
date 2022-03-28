@@ -19,7 +19,7 @@ module.exports = {
       title: 'Mr.101010',
       logo: {
         alt: 'Mr.101010',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       links: [
         {
