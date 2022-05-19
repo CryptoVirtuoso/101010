@@ -1,7 +1,7 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: NFT介绍
+sidebar_label: NFT介绍
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
