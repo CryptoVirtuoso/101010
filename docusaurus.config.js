@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Mr.101010',
-  tagline: '空降各种福利',
+  title: '舞动未来',
+  tagline: 'WIKI',
   url: 'https://101010.cool/blog',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -10,7 +10,7 @@ module.exports = {
     announcementBar: {
       id: 'support_us',
       content:
-        'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+        '水友们，舞动未来即将开启，欢迎查看 <a target="_blank" rel="noopener noreferrer" href="#">戳我进官网</a>',
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
       isCloseable: false,
@@ -29,7 +29,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/cryptoascii/101010',
           label: 'GitHub',
           position: 'right',
         },
