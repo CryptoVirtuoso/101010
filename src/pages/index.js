@@ -34,6 +34,33 @@ const features = [
       </>
     ),
   },
+  {
+    title: <>UGC计划</>,
+    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    description: (
+      <>
+        4444444.
+      </>
+    ),
+  },
+  {
+    title: <>竞技PK</>,
+    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    description: (
+      <>
+        4444444.
+      </>
+    ),
+  },
+  {
+    title: <>社区名单</>,
+    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    description: (
+      <>
+        4444444.
+      </>
+    ),
+  },
 ];
 
 function Feature({imageUrl, title, description}) {
