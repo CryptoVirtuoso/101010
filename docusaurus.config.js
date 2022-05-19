@@ -16,9 +16,9 @@ module.exports = {
       isCloseable: false,
     },
     navbar: {
-      title: 'Mr.101010',
+      title: '舞动未来',
       logo: {
-        alt: 'Mr.101010',
+        alt: '舞动未来',
         src: 'img/logo.png',
       },
       links: [
