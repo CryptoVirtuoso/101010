@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>如何收益</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/reimbursement.png',
     description: (
       <>
         111111111
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: <>NFT介绍</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/nft.png',
     description: (
       <>
         2222222.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: <>通证经济</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/tokens.png',
     description: (
       <>
         333333.
@@ -36,7 +36,7 @@ const features = [
   },
   {
     title: <>UGC计划</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/blogger.png',
     description: (
       <>
         4444444.
@@ -45,7 +45,7 @@ const features = [
   },
   {
     title: <>竞技PK</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/competition.png',
     description: (
       <>
         4444444.
@@ -53,8 +53,8 @@ const features = [
     ),
   },
   {
-    title: <>社区名单</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>社区</>,
+    imageUrl: 'img/community.png',
     description: (
       <>
         4444444.
