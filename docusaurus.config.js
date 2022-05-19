@@ -1,7 +1,7 @@
 module.exports = {
   title: '舞动未来',
   tagline: 'WIKI',
-  url: 'https://101010.cool/blog',
+  url: 'https://101010.cool',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'cryptoascii', // Usually your GitHub org/user name.
@@ -19,7 +19,7 @@ module.exports = {
       title: '舞动未来',
       logo: {
         alt: '舞动未来',
-        src: 'img/logo.png',
+        src: 'img/teddy-bear.png',
       },
       links: [
         {
