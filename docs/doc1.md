@@ -8,13 +8,13 @@ sidebar_label: 稀有度介绍
 
 一共有5类稀有度属性，分别用5种不同的颜色标注👇
 
-| 稀有性        |      颜色      |   符号 |
-| ------------- | ----------- | ----- |
-| 普通的      |<font color=#ffffff>白色</font>|N|
-| 不常见      |<font color=#46f030>绿色</font>|A|
-| 罕见的      |<font color=#077ef5>蓝色</font>|S|
-| 史诗的      |<font color=#f5d507>金色</font>|SS|
-| 传说中的    |<font color=#f21322>红色</font>|UR|
+|  稀有性   | 颜色  | 符号  |
+|  ----  | ----  | ----  |
+| 普通的  | <font color=#ffffff>白色</font> | N  |
+| 不常见  | <font color=#46f030>绿色</font> | A  |
+| 罕见的  | <font color=#077ef5>蓝色</font> | S  |
+| 史诗的  | <font color=#f5d507>金色</font> | SS  |
+| 传说中的  | <font color=#f21322>红色</font> | UR  |
 
 :::tip
 
